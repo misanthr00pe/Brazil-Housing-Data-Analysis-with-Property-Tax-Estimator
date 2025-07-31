@@ -4,7 +4,6 @@
 
 This project analyzes housing data across Brazil with the goal of identifying suitable cities for relocation based on expense factors tailored to different household types—bachelors, mid-sized families, and large families. It further leverages machine learning to build a predictive model that estimates monthly property tax (R$) using features such as property area, number of rooms, HOA fees, rent, and more. By combining data visualization and predictive analytics, the project provides actionable insights to support smarter housing decisions across various family profiles.
 
----x
 
 ## 🧰 Tools & Technologies Used
 
@@ -14,7 +13,6 @@ This project analyzes housing data across Brazil with the goal of identifying su
 - **Excel** – Utilized for preliminary data exploration
 - **Linear Regression & CatBoost** –  Applied for building and optimizing the property tax prediction model
 
----
 
 ## 🧭 Agenda
 
