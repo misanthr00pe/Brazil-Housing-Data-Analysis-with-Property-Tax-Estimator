@@ -9,7 +9,7 @@ This project analyzes housing data across Brazil with the goal of identifying su
 
 - **Python** – Core language for data manipulation, analysis, and modeling
 - **Pandas & NumPy** – Efficient handling of structured data and numerical operations
-- **Matplotlib & Seaborn** – For creating insightful and visually appealing data visualizations
+- **Matplotlib, Seaborn & plotly** – For creating insightful and visually appealing data visualizations
 - **Excel** – Utilized for preliminary data exploration
 - **Linear Regression & CatBoost** –  Applied for building and optimizing the property tax prediction model
 
