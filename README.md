@@ -33,6 +33,27 @@ This project analyzes housing data across Brazil with the goal of identifying su
 - 4  bedrooms
 - 2  bathrooms
 - Dual parking plot preferable
+  
 
----
+## 🎯 Objective
 
+**Data Exploration & Preprocessing**
+- Overview of dataset and key features
+- Data wrangling, handling missing values, and feature engineering
+
+**Exploratory Data Analysis (EDA)**
+
+- Visual insights by city, room count, area, rent, etc.
+- Comparison across household types (bachelors, families)
+
+**Model Development**
+- Regression models for property tax prediction
+- Model selection, training, enhancement and evaluation
+
+**Results & Interpretation**
+- Key findings and insights from EDA
+- Performance of prediction models
+
+**Conclusion & Recommendations**
+- Best cities based on affordability for different family sizes
+- Use cases for the tax estimator tool
